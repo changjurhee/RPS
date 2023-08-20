@@ -2,7 +2,7 @@
 Rust Programming Study Project
 
 # What is the Rust ? 
-- See [Wiki](https://ko.wikipedia.org/wiki/%EB%9F%AC%EC%8A%A4%ED%8A%B8_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4)
+- See [Wiki](https://ko.wikipedia.org/wiki/%EB%9F%AC%EC%8A%A4%ED%8A%B8_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4))
 
 >> 러스트(영어: Rust)는 모질라 리서치에서 개발한 범용 프로그래밍 언어이다. "안전하고, 병렬적이며, 실용적인" 언어로 디자인되었으며,[2] 순수 함수형 프로그래밍, 액터 기반 병렬 프로그래밍, 명령형 프로그래밍, 객체 지향 프로그래밍 스타일을 지원한다.
 >> 
