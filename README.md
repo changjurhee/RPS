@@ -13,7 +13,7 @@ Rust Programming Study Project
 > 모질라의 정책[7]에 따라, 러스트는 전적으로 오픈 소스로 개발되고 있으며, 커뮤니티로부터 피드백을 받고 있다. 모질라 재단이 러스트의 개발을 후원하고 있다. 러스트의 설계에는 모질라의 렌더링 엔진인 서보와 rustc 컴파일러를 개발하면서 쌓인 경험들이 반영되어 있다.
 
 # survey 
-> Rust is on its seventh year as the most loved language with 87% of developers saying they want to continue using it. Rust also ties with Python as the most wanted technology with TypeScript running a close second. - [stackoverflow Survey 2022](https://survey.stackoverflow.co/2022/#overview)
+> "Rust is on its seventh year as the most loved language with 87% of developers saying they want to continue using it. Rust also ties with Python as the most wanted technology with TypeScript running a close second." - [stackoverflow Survey 2022](https://survey.stackoverflow.co/2022/#overview)
   - [#most-loved-dreaded-and-wanted-language-love-dread](https://survey.stackoverflow.co/2022/#section-most-loved-dreaded-and-wanted-programming-scripting-and-markup-languages)
   - [#most-loved-dreaded-and-wanted-language-want](https://survey.stackoverflow.co/2022/#most-loved-dreaded-and-wanted-language-want)
  
